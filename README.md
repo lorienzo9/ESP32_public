@@ -107,6 +107,6 @@ Improvements also in code can be considered, introducing a new lvgl library for 
 Finally, error management should me implemented in order to manage failures in connection or server timeout which will interrupt data fetching.
 
 >[!CAUTION]
->This program is not reccomened for external use.
->Try it at your own risk!
+>This program is not reccomened for external use.  
+>Try it at your own risk!  
 >Contact me for more detail and for source code.

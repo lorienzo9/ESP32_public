@@ -93,7 +93,7 @@ const String device_name = "YOUR_DEVICE_NAME";
   ```
 
 > [!NOTE]
-> I found my device name analyzing mi network connection with the server. Try with your browser and using web developement tools.
+> I found my device name analyzing my network connection with the server. Try with your browser and using web developement tools.
 
 
 

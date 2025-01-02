@@ -109,4 +109,4 @@ Finally, error management should me implemented in order to manage failures in c
 >[!CAUTION]
 >This program is not reccomened for external use.  
 >Try it at your own risk :heavy_exclamation_mark:\
->Contact me for more detail and for source code. :email:
+>Contact me for more details and for source code. :email:
